@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter|Permanent+Marker');
+body {
+    background-color: #e8f2fc;
+}
+
+
+/* header footer CSS */
+
+header,
+footer {
+    background-color: #2E4471;
+    margin: auto;
+    font-family: 'Permanent Marker', cursive;
+    color: #59f780;
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, .5);
+}
+
+footer p {
+    color: #43b798;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #43b798;
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, .5);
+}
+
+
+/* main CSS */
+
+h2,
+h3 {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 30px;
+    text-align: left;
+    color: #43bab8;
+}
+
+p,
+ul,
+ol {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+    text-align: left;
+    color: #2E4471;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #59f780;
+}
+
+a:visited {
+    color: #44c0ea;
+}
+
+a:hover {
+    color: #16f4e5;
+}
+
+a:active {
+    color: #165df7;
+}
+
+ul {
+    color: #2E4471;
+}
+
+.container {
+    width: 980px;
+    margin: auto
+}
+
+hr {
+    width: height: border: color:
+}
+
+
+/* image css */
+
+.image-circle {
+    border-radius: 50%;
+}
+
+.round {
+    border-radius: 10px;
+}
