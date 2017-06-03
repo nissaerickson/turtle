@@ -17,6 +17,7 @@ footer {
 
 footer p {
     color: #43b798;
+    text-align: center;
 }
 
 h1 {
@@ -29,6 +30,11 @@ h1 {
 
 
 /* main CSS */
+
+main {
+    margin: auto;
+    padding: 20px;
+}
 
 h2,
 h3 {
@@ -52,7 +58,7 @@ a {
 }
 
 a:link {
-    color: #59f780;
+    color: #8700ff;
 }
 
 a:visited {
@@ -73,11 +79,8 @@ ul {
 
 .container {
     width: 980px;
-    margin: auto
-}
-
-hr {
-    width: height: border: color:
+    margin: auto;
+    padding: 10px;
 }
 
 
@@ -91,8 +94,11 @@ hr {
     border-radius: 10px;
 }
 
+
+/* page divider */
+
 hr {
     height: 5px;
-    border:  2px dotted green;
+    border: 2px dotted green;
     background-color: #2E4471;
 }
